@@ -39,7 +39,7 @@ I’m diving into **OpenShift** and expanding my knowledge of **AWS** and **serv
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://logowik.com/content/uploads/images/bash-icon2399.logowik.com.webp" alt="Bash" width="40" height="40"/>
+      <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" alt="Bash" width="40" height="40"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   
