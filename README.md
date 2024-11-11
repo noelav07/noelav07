@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Noel!</h1>
 <h3 align="center">
-I'm using GitHub as a journal to document my journey, share projects, learn from others, and collaborate.
+I'm using GitHub as a journal to document my learnings, share projects, learn from others, and collaborate.
 </h3>
 
 <p align="left">
