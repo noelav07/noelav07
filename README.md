@@ -10,11 +10,9 @@ I'm using GitHub as a journal to document my learnings, share projects, learn fr
 ---
 
 ### 📘 What I Do
-- **Infrastructure Management**: Skilled in DNS, DHCP, load balancing, and containerization with Docker.
-- **Cloud & Server Monitoring**: Proficient in Grafana, Prometheus, and AWS CloudWatch for monitoring on-prem and cloud environments.
-- **Web & Email Hosting**: Configured Zimbra for email services and proficient in Apache and Nginx setup.
-- **Programming & Scripting**: Familiarity with Python, just a bit :) .
-
+- **Network & System Administration**: Managing Linux (RHCSA-certified) and Windows servers, with expertise in networking (CCNA).  
+- **Cloud & Virtualization**: Designing and managing cloud infrastructure using AWS, Proxmox, and containerized environments (LXC, KVM).  
+- **Automation & Scripting**: Exploring Python to automate tasks and improve workflows.  
 ---
 
 ### 🌱 Currently Learning
