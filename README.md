@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hello, I'm Noel Abraham V</h1>
 <h3 align="center">
-🚀 Site Reliability Engineer | ☁️ Cloud Infrastructure Specialist | 🔧 DevOps Enthusiast
+Site Reliability Engineer | Cloud Infrastructure Specialist |  DevOps Enthusiast
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Reliable+Systems;Automating+Infrastructure;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Reliable+Systems;Automating+Infrastructure" alt="Typing SVG" />
 </div>
 
 <p align="left">
