@@ -118,13 +118,5 @@ I'm a **Site Reliability Engineer** with a keen focus on cloud infrastructure op
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noelav07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noelav07&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noelav07&" alt="GitHub Streak" />
 </p>
